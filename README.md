@@ -2,16 +2,17 @@
 Sample voice and transcript dataset by Verbatim, Baby!
 
 
-            Whipping raw audio into data
- and showcasing the ease with which Google Gemini breaks when
-facing a non-dominant language like Afrikaans that’s polluted
-by Dutch influences, as well as documenting the experiences of 
+Whipping raw audio into data and showcasing the ease with which 
+Google Gemini breaks when facing a non-dominant language like Afrikaans
+that’s polluted by Dutch influences, as well as documenting the experiences of 
          our volunteering Afrikaans participants.
 
 
-* What’s in this repo?
-  * SAMPLES:
-    * ELGemini: A young, native Afrikaans-speaking car parts 
+    * What’s in this repo?
+     * SAMPLES:
+
+     
+     * ELGemini: A young, native Afrikaans-speaking car parts 
        salesman who uses Gemini with limited success using 
        spoken Afrikaans, and mostly demonstrates how easily it 
        misunderstands, flips languages and accents, spells out
