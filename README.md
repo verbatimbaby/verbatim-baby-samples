@@ -1,5 +1,8 @@
 # verbatim-baby-samples
 Sample voice and transcript dataset by Verbatim, Baby!
+🔗 [Download Full Sample Set (144MB)](https://www.dropbox.com/scl/fi/lkjb3zu50403m9mnqyyr3/verbatim-baby-samples.rar?rlkey=8cxrbxqmng2ggalfyexdbfxiu&st=2mj9iibg&dl=0)
+
+
 
 
 Whipping raw audio into data and showcasing the ease with which 
@@ -155,3 +158,9 @@ that’s polluted by Dutch influences, as well as documenting the experiences of
          clip_002_tanya_human_edits
          clip_002_tanya_ml_package
          af_substitutions_tanya_sample
+
+
+
+
+🔗 [Download Full Sample Set (144MB)](https://www.dropbox.com/scl/fi/lkjb3zu50403m9mnqyyr3/verbatim-baby-samples.rar?rlkey=8cxrbxqmng2ggalfyexdbfxiu&st=2mj9iibg&dl=0)
+
